@@ -36,7 +36,7 @@ namespace URLShorteningService.DataAccess
             return res;
         }
 
-        public string AddShortUrl(string url)
+        private string AddShortUrl(string url)
         {
             string token = _tokenGeneratorService.GenerateToken();
 

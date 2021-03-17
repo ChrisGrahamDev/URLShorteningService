@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d903e5e_002D20d8_002D43cf_002D8133_002D865f8bc02adc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetShortUrl_Returns_ValidShortUrl" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::528F3EBE-F99A-488D-8F31-5B8EB8F2F8D5::net5.0::URLShorteningService2Test.ServiceTests.FileSystemDataAccessTests.GetShortUrl_Returns_ValidShortUrl&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::528F3EBE-F99A-488D-8F31-5B8EB8F2F8D5::net5.0::URLShorteningService2Test.ServiceTests.FileSystemDataAccessTests.GetShortUrl_Creates_And_Returns_ValidShortUrl&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

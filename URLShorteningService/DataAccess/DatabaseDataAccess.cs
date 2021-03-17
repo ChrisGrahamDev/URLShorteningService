@@ -15,7 +15,7 @@ namespace URLShorteningService.DataAccess
             throw new NotImplementedException();
         }
 
-        public string AddShortUrl(string url)
+        private string AddShortUrl(string url)
         {
             throw new NotImplementedException();
         }

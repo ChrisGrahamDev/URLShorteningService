@@ -16,6 +16,7 @@ namespace URLShorteningService.Services
                 .OrderBy(o => new Random().Next())
                 .ToList()
                 .ForEach(i => urlSafe += Convert.ToChar(i));
+
             string token = urlSafe.Substring(new Random().Next(0, urlSafe.Length), new Random().Next(2, 8));
 
             return token;

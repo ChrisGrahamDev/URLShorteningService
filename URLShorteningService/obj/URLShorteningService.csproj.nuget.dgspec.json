@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\URLShorteningService\\URLShorteningService\\URLShorteningService.csproj": {}
+    "C:\\Users\\Chris\\source\\repos\\URLShorteningService2\\URLShorteningService\\URLShorteningService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\URLShorteningService\\URLShorteningService\\URLShorteningService.csproj": {
+    "C:\\Users\\Chris\\source\\repos\\URLShorteningService2\\URLShorteningService\\URLShorteningService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\URLShorteningService\\URLShorteningService\\URLShorteningService.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\URLShorteningService2\\URLShorteningService\\URLShorteningService.csproj",
         "projectName": "URLShorteningService",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\URLShorteningService\\URLShorteningService\\URLShorteningService.csproj",
+        "projectPath": "C:\\Users\\Chris\\source\\repos\\URLShorteningService2\\URLShorteningService\\URLShorteningService.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\URLShorteningService\\URLShorteningService\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\source\\repos\\URLShorteningService2\\URLShorteningService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
